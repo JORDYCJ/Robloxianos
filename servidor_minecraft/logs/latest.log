@@ -234,3 +234,19 @@
 [24Jun2025 01:09:39.332] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 104814 ms
 [24Jun2025 01:09:39.332] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (112.813s)! For help, type "help"
 [24Jun2025 01:09:39.353] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[24Jun2025 01:18:59.696] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1c199ece
+[24Jun2025 01:18:59.727] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JORDYCJ[/127.130.228.146:44527] logged in with entity id 274 at (-391.5, 70.0, 180.5)
+[24Jun2025 01:18:59.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JORDYCJ joined the game
+[24Jun2025 01:20:39.868] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JORDYCJ lost connection: Disconnected
+[24Jun2025 01:20:39.869] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JORDYCJ left the game
+[24Jun2025 01:20:49.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[24Jun2025 01:20:49.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Jun2025 01:20:49.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Jun2025 01:20:49.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Jun2025 01:20:51.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Jun2025 01:20:54.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Jun2025 01:20:54.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Jun2025 01:20:54.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Jun2025 01:20:54.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Jun2025 01:20:54.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Jun2025 01:20:54.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
